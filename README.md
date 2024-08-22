@@ -1,5 +1,11 @@
 # Projekt: En Enkel Räknare
 
+## Resultat
+
+<figure>
+    <img src="./src/assets/counter.png" alt="counter-app" />
+</figure>
+
 ## Översikt
 Du ska bygga en enkel räknare i React med TypeScript som kan:
 - Öka räknarens värde.
